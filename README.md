@@ -1,5 +1,9 @@
 # 👋 Hi, I'm Joseph Bulliner
 
+> **Current 2026 portfolio:** [Interactive evidence portfolio](https://jbulliner82.github.io/evidence-2026/) · [Online resume versions](https://jbulliner82.github.io/evidence-2026/resumes/) · [Live demos and screenshots](https://jbulliner82.github.io/evidence-2026/gallery.html) · [Reproducible source and tests](https://github.com/jbulliner82/jbulliner82.github.io/tree/main/evidence-2026/automation).
+>
+> Current records and property samples are synthetic demonstrations. No production, patient, learner or employer impact claims are implied.
+
 **AI Operations & Automation Specialist** | **Systems Thinker** | **Workflow Designer**
 
 I design and automate reality-tested workflow systems for teams that can't afford failure.
